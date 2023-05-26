@@ -2,7 +2,8 @@
 
 Cluster solution for plesk multiserver administration.
 
-<div style="min-height: 67px;width: 560px; max-width: 90%; border-radius: 12px; padding: 16px 22px 17px 20px; display: flex;align-items: center;background: #f2a600; color: #fff; font-family: Verdana; margin-left: 10px;"><strong>DO NOT USE THIS ON A PUBLIC SERVER, IT IS INTENDED TO RUN ONLY ON LOCALHOST. IF YOU RUN IT ON A PUBLIC SERVER WITHOUT HTACCESS PROTECTION, YOU ARE GIVING ACCESS TO YOUR PLESK SERVER TO THE PUBLIC</strong></div>
+| :exclamation:  DO NOT USE THIS ON A PUBLIC SERVER, IT IS INTENDED TO RUN ONLY ON LOCALHOST. IF YOU RUN IT ON A PUBLIC SERVER WITHOUT HTACCESS PROTECTION, YOU ARE GIVING ACCESS TO YOUR PLESK SERVER TO THE PUBLIC   |
+|-----------------------------------------|
 
 
 ## Preliminar estructure.
