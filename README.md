@@ -20,7 +20,7 @@ git clone https://github.com/Iguannaweb/ples_multi_server.git
 ```
 
 2. Run composer install to fetch dependencies
-2. Fill data on ./igw-includes/config/config.example.php and rename to ./igw-includes/config/config.php (email, name and array data with host, user and passwords)
+2. Fill data on ./igw-includes/config/config.example.php (email, name and array data with host, user and passwords) and rename to ./igw-includes/config/config.php 
 
 ## Page information
 
