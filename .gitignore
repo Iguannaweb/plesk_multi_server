@@ -1,0 +1,11 @@
+.git
+.nova
+vendor
+igw-includes/config/config.php
+igw-content/data/clients/clients*
+igw-content/data/domains/domains*
+igw-content/data/server/server*
+igw-content/data/stats/stats*
+igw-content/data/status/status*
+untitled.html
+.DS_Store
