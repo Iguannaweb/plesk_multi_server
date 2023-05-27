@@ -95,3 +95,11 @@ Check that the time it takes to run the script is less than the time between one
 ```
 */5 * * * * wget http://locahost/plesk_multi_server/update_data.php
 ```
+
+## Screenshots
+![Home Screenshot Desktop](/screenshots/1_Home.png?raw=true "Home")
+![Home Screenshot Tablet](/screenshots/1_Home_tablet.png?raw=true "Home")
+![Home Screenshot Tablet](/screenshots/1_Home_tablet_menu.png?raw=true "Home")
+![Home Screenshot Mobile](/screenshots/1_Home_mobile.png?raw=true "Home")
+![Home Screenshot Mobile](/screenshots/1_Home_mobile_menu.png?raw=true "Home")
+
