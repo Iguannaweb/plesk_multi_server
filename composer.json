@@ -1,0 +1,6 @@
+{
+    "require": {
+        "almasaeed2010/adminlte": "~3.2",
+        "plesk/api-php-lib": "^2.0"
+    }
+}
